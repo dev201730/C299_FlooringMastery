@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,Date
+1,Ada Lovelace,CA,25.00,Tile,249.00,3.50,4.15,871.50,1033.35,476.21,2381.06,06-01-2013
+2,Doctor Who,WA,9.25,Wood,243.00,5.15,4.75,1251.45,1154.25,216.51,2622.21,06-02-2013
+3,Albert Einstein2,TX,6.00,Carpet,217,2.25,2.10,488.25,455.70,42.01,985.96,06-02-2013
+4,Eneinta Veliai,CA,577.50,Laminate,600,1050.00,1260.00,1050.00,1260.00,577.50,2887.50,10-10-2022
+5,Spiderman Tester,TX,96.79,Carpet,500,1125.00,1050.00,1125.00,1050.00,96.79,2271.79,11-20-2022

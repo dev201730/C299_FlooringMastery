@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6,Mary Philipps,TX,107.63,Carpet,556,1251.00,1167.60,1251.00,1167.60,107.63,2526.23

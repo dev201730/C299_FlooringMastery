@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+4,Eneinta Veliai,CA,577.50,Laminate,600,1050.00,1260.00,1050.00,1260.00,577.50,2887.50

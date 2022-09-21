@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+5,Spiderman Tester,TX,96.79,Carpet,500,1125.00,1050.00,1125.00,1050.00,96.79,2271.79
